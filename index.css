@@ -1,0 +1,26 @@
+p{
+background-color:rgb(236, 215, 228) ;
+border-radius: 5px;
+padding: 16px;
+}
+body{
+  background-color: rgb(209, 63, 160);
+ 
+}
+input{
+  background-color: rgb(203, 203, 218);
+  border-radius: 5px;
+}
+button{
+  background-color: rgb(219, 21, 97);
+  width: 100px;
+  border-radius:10px;
+
+}
+
+form{
+  display: grid;
+  grid-template-columns: 1,1fr;
+  gap: 1rem;
+  width:400px ;
+}
